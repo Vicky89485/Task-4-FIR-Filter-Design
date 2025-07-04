@@ -23,3 +23,8 @@ Upon simulating the design and observing the waveform, I could clearly see the i
 Through this task, I gained hands-on experience in designing and simulating digital filters, which are a key part of DSP systems. I learned the importance of register arrays for implementing delay lines in hardware and how to use Verilog to model real-world signal processing components. I also improved my understanding of multiply-and-accumulate operations in FPGA and ASIC design.
 
 All the design files, testbench code, and waveform screenshots are documented and saved in my GitHub repository. This task has significantly improved my confidence and technical capability in designing complex digital systems and has laid a strong foundation for future work in signal processing and advanced VLSI design.
+
+
+
+OUTPUT OF THE TASK 
+<img width="1912" height="573" alt="Image" src="https://github.com/user-attachments/assets/3baa0e7d-4173-4633-963a-c9c0e76a05bd" />
